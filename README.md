@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinraj910&label=Profile%20views&color=0e75b6&style=flat" alt="dinraj910" /> </p>
 
-- 🔭 I’m currently working on [Astrosphere](https://github.com/dinraj910/Astrosphere.git)
+- 🌱 I’m currently learning **AI/ML**
 
-- 🌱 I’m currently learning **MERN, NEXT JS,THREE JS**
+- 👨‍💻 All of my projects are available at [https://github.com/dinraj910/Astrosphere](https://github.com/dinraj910)
 
-- 👨‍💻 All of my projects are available at [https://github.com/dinraj910/Astrosphere](https://github.com/dinraj910/Astrosphere)
-
-- 💬 Ask me about **react, express,three js**
+- 💬 Ask me about **react, express,three js,AL/ML**
 
 - 📫 How to reach me **dinrajdinesh564@gmail.com**
 
