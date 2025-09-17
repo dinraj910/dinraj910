@@ -1,15 +1,26 @@
 <h1 align="center">Hi 👋, I'm DINRAJ K DINESH</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer and ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinraj910&label=Profile%20views&color=0e75b6&style=flat" alt="dinraj910" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🔭 I'm currently working on **Machine Learning web applications and interactive space technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dinraj910/Astrosphere](https://github.com/dinraj910)
+- 🌱 I'm currently learning **AI/ML and advanced data science techniques**
 
-- 💬 Ask me about **react, express,three js,AL/ML**
+- 🚀 Recent projects include:
+  - **Astrosphere**: A hyper-modern space encyclopedia with interactive UI and real-time space data
+  - **Weather Prediction Project**: Advanced weather forecasting using machine learning models
+  - **Salary Predictor WebApp**: ML-powered Flask application predicting salaries based on experience
+  - **House Price Predictor WebApp**: Regression modeling web app for real estate price prediction
+
+- 👨‍💻 All of my projects are available at [https://github.com/dinraj910](https://github.com/dinraj910)
+
+- 💬 Ask me about **React, Express, Three.js, AI/ML, Flask, Python, and Data Science**
 
 - 📫 How to reach me **dinrajdinesh564@gmail.com**
+
+## 🎯 Current Focus
+Building intelligent web applications that combine modern frontend technologies with powerful machine learning backends. Passionate about space technology, predictive analytics, and creating interactive user experiences.
 
 
 # 💻 Tech Stack:
