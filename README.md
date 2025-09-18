@@ -12,6 +12,7 @@
   - **Weather Prediction Project**: Advanced weather forecasting using machine learning models
   - **Salary Predictor WebApp**: ML-powered Flask application predicting salaries based on experience
   - **House Price Predictor WebApp**: Regression modeling web app for real estate price prediction
+  - **Rock vs Mine**: Binary classification of sonar data and predict the object is it a Rock or a Mine
 
 - 👨‍💻 All of my projects are available at [https://github.com/dinraj910](https://github.com/dinraj910)
 
