@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm DINRAJ K DINESH</h1>
-<h3 align="center">A passionate fullstack developer and ML enthusiast from India</h3>
+<h3 align="center">An AI/ML enthusiast and a passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinraj910&label=Profile%20views&color=0e75b6&style=flat" alt="dinraj910" /> </p>
 
-- 🔭 I'm currently working on **Machine Learning web applications and interactive space technologies**
+- 🔭 I'm currently working on **AI/ML, Deep Learning, Artificial Nerual Network, Convolutional neural networks, Recurrent neural networks**
 
 - 🌱 I'm currently learning **AI/ML and advanced data science techniques**
 
