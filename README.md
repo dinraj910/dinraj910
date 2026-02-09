@@ -17,6 +17,32 @@ Building intelligent systems, scalable web applications, and ML-driven products.
 # 💫 About Me:
 🎓 MCA Student from India<br>🧠 Strong focus on AI, Machine Learning & Deep Learning<br>🧪 Hands-on with ANN, CNN, RNN, NLP, Computer Vision<br>🌐 Experienced in Full-Stack Development (React, Node, Django, Flask)<br>🛡️ Exploring Cybersecurity, OSINT, Kali Linux & Secure Systems<br>🧩 Interested in systems programming, embedded systems & low-level computing<br>📈 Career-focused on high-impact, resume-worthy, real-world projects
 
+🧠 Key Projects
+
+Spam SMS Classification (NLP + LSTM RNN)
+End-to-end NLP pipeline with text preprocessing, tokenization, LSTM-based sequence modeling, evaluation, and deployment-ready architecture using TensorFlow/Keras.
+
+Sentiment Analysis using LSTM (NLP)
+Resume-grade sentiment analysis system with custom word-level tokenization and recurrent neural network modeling for real-world text classification.
+
+Traffic AI – Real-Time Vehicle Detection & Flow Analysis (YOLOv8)
+Real-time vehicle detection, tracking, and traffic flow analytics using YOLOv8 and ByteTrack with GPU-accelerated inference and CSV-based reporting.
+
+Structural Damage Severity Assessment (CNN)
+Computer vision system that classifies building damage severity from images, designed for disaster response and infrastructure inspection.
+
+Retail Loss Prevention & Shelf Intelligence (YOLO)
+YOLO-based retail analytics system detecting product–person interactions, shelf stock conditions, and generating explainable loss-prevention insights.
+
+DermaAI – Skin Lesion Classification (CNN + ResNet)
+Medical imaging application that classifies skin lesions as benign or malignant with confidence scores using deep CNN architectures.
+
+Industrial Defect Inspection (CNN Autoencoder)
+Unsupervised anomaly detection system for industrial surface inspection using reconstruction-based CNN autoencoders with explainable heatmaps.
+
+Visual CNN Builder with Code Generation (Full-Stack ML)
+Full-stack ML engineering platform that enables visual, layer-by-layer CNN design and automatically generates executable deep learning code.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dinraj-k-dinesh-07956b254) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinrajdinesh564@gmail.com) 
